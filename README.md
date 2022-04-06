@@ -1,7 +1,7 @@
 # UConnRecCapacity
-Python program to get capacity for UConn's Rec Center
+Simple Python program to get capacity for UConn's Rec Center
 
-I created this in Spring 2021 using Python, Selenium, and a couple other things. It's old, and I had neglected to put it on my GitHub.
+I created this as a tiny side project in Spring 2021 using Python, Selenium, and a couple other things. It's old, and I had neglected to put it on my GitHub when I created it.
 
 Capacity.py is used for testing and simply prints the capacity when the program is ran.
 
